@@ -1,0 +1,5 @@
+fastapi==0.95.2
+uvicorn==0.22.0
+pymilvus==2.2.14
+sentence-transformers==2.2.2
+python-dotenv==1.0.0
