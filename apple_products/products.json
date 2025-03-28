@@ -1,0 +1,1002 @@
+[
+  {
+    "id": "bb31e110-e8e7-4bf7-98aa-230a191cc26c",
+    "title": "Apple iPad 1",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$809.00",
+    "image_url": "https://example.com/images/ipad_1.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198852"
+  },
+  {
+    "id": "2b163981-9281-486f-bdb8-54d01fd145fd",
+    "title": "Apple Mac 2",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$819.00",
+    "image_url": "https://example.com/images/mac_2.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198868"
+  },
+  {
+    "id": "0793bda4-7d6f-4476-8d96-67749f4a7672",
+    "title": "Apple Watch 3",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$829.00",
+    "image_url": "https://example.com/images/watch_3.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198874"
+  },
+  {
+    "id": "3842be74-8ecc-4914-9c73-ae2b29b64550",
+    "title": "Apple AirPods 4",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$839.00",
+    "image_url": "https://example.com/images/airpods_4.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198879"
+  },
+  {
+    "id": "706e12f3-5aa8-4d21-8d52-23d578fb852d",
+    "title": "Apple iPhone 5",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$849.00",
+    "image_url": "https://example.com/images/iphone_5.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198884"
+  },
+  {
+    "id": "622cb127-d4bb-4bea-8cf4-fb3e6b011820",
+    "title": "Apple iPad 6",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$859.00",
+    "image_url": "https://example.com/images/ipad_6.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198889"
+  },
+  {
+    "id": "cd024967-0f19-4f5c-b56c-54aa970aa862",
+    "title": "Apple Mac 7",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$869.00",
+    "image_url": "https://example.com/images/mac_7.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198893"
+  },
+  {
+    "id": "6dccdead-6d55-4a7e-a92b-a462eaa57fda",
+    "title": "Apple Watch 8",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$879.00",
+    "image_url": "https://example.com/images/watch_8.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198898"
+  },
+  {
+    "id": "830ce0fb-e273-4087-bbc0-083e3488c116",
+    "title": "Apple AirPods 9",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$889.00",
+    "image_url": "https://example.com/images/airpods_9.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198902"
+  },
+  {
+    "id": "3ecd4df4-3bf6-48ba-97d2-657210ac874e",
+    "title": "Apple iPhone 10",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$899.00",
+    "image_url": "https://example.com/images/iphone_10.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198907"
+  },
+  {
+    "id": "4b2b4ba3-bda7-4cdd-b060-f232ad4e328a",
+    "title": "Apple iPad 11",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$909.00",
+    "image_url": "https://example.com/images/ipad_11.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198911"
+  },
+  {
+    "id": "9c0f603e-b097-422d-8bb6-6e15b9759ca9",
+    "title": "Apple Mac 12",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$919.00",
+    "image_url": "https://example.com/images/mac_12.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198916"
+  },
+  {
+    "id": "9c9a0197-7b2c-4cb2-82ba-df9cd3d5a503",
+    "title": "Apple Watch 13",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$929.00",
+    "image_url": "https://example.com/images/watch_13.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198920"
+  },
+  {
+    "id": "d12c9171-4d02-443f-b3ba-7aaabdf9fc69",
+    "title": "Apple AirPods 14",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$939.00",
+    "image_url": "https://example.com/images/airpods_14.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198924"
+  },
+  {
+    "id": "badba352-6afc-4abc-8aae-9c425b582c3d",
+    "title": "Apple iPhone 15",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$949.00",
+    "image_url": "https://example.com/images/iphone_15.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198929"
+  },
+  {
+    "id": "f1079071-e826-4b2b-a135-c6903eb3ef69",
+    "title": "Apple iPad 16",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$959.00",
+    "image_url": "https://example.com/images/ipad_16.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198933"
+  },
+  {
+    "id": "353d3e66-dcb0-4426-9f4d-754f49bd19bf",
+    "title": "Apple Mac 17",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$969.00",
+    "image_url": "https://example.com/images/mac_17.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198937"
+  },
+  {
+    "id": "3d5afd29-9b88-412a-9b93-b233856c8cdc",
+    "title": "Apple Watch 18",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$979.00",
+    "image_url": "https://example.com/images/watch_18.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198941"
+  },
+  {
+    "id": "dc3efa7b-1bd1-4aa9-8823-e14e76e01b2c",
+    "title": "Apple AirPods 19",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$989.00",
+    "image_url": "https://example.com/images/airpods_19.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198946"
+  },
+  {
+    "id": "abd24aa9-a203-46c6-b67c-c3f0ff2c2fe5",
+    "title": "Apple iPhone 20",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$999.00",
+    "image_url": "https://example.com/images/iphone_20.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198950"
+  },
+  {
+    "id": "cf2b38d3-41a9-4a81-83f6-cee0d05c7745",
+    "title": "Apple iPad 21",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1009.00",
+    "image_url": "https://example.com/images/ipad_21.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198954"
+  },
+  {
+    "id": "d32aefb3-39fa-414f-8ae8-e3b9e3e69b55",
+    "title": "Apple Mac 22",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1019.00",
+    "image_url": "https://example.com/images/mac_22.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198959"
+  },
+  {
+    "id": "48babdba-0646-4a76-9ce9-b4ca37214d73",
+    "title": "Apple Watch 23",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1029.00",
+    "image_url": "https://example.com/images/watch_23.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198963"
+  },
+  {
+    "id": "16f94fd3-fd67-45db-aa75-ba2b7ae06876",
+    "title": "Apple AirPods 24",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1039.00",
+    "image_url": "https://example.com/images/airpods_24.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198967"
+  },
+  {
+    "id": "f50db976-8f21-452e-ae43-105a1d272964",
+    "title": "Apple iPhone 25",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1049.00",
+    "image_url": "https://example.com/images/iphone_25.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198971"
+  },
+  {
+    "id": "57ac8d1f-9bc2-413c-a6c1-07445a36fa7b",
+    "title": "Apple iPad 26",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1059.00",
+    "image_url": "https://example.com/images/ipad_26.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198976"
+  },
+  {
+    "id": "80318539-082c-4a0a-9caf-38e23e342ad9",
+    "title": "Apple Mac 27",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1069.00",
+    "image_url": "https://example.com/images/mac_27.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.198980"
+  },
+  {
+    "id": "b3b43453-6457-4c1a-bf5f-08e84e6b4428",
+    "title": "Apple Watch 28",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1079.00",
+    "image_url": "https://example.com/images/watch_28.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.198984"
+  },
+  {
+    "id": "2b2990d8-6445-4804-b941-4c9eb67c83c5",
+    "title": "Apple AirPods 29",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1089.00",
+    "image_url": "https://example.com/images/airpods_29.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.198989"
+  },
+  {
+    "id": "8985751b-ffd5-4905-ac5a-6941099bb839",
+    "title": "Apple iPhone 30",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1099.00",
+    "image_url": "https://example.com/images/iphone_30.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.198993"
+  },
+  {
+    "id": "b02829e3-2aa2-4ff2-9b3d-ae10895cea1d",
+    "title": "Apple iPad 31",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1109.00",
+    "image_url": "https://example.com/images/ipad_31.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.198997"
+  },
+  {
+    "id": "d45661cf-a066-49c3-b4fc-fc951f9254f4",
+    "title": "Apple Mac 32",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1119.00",
+    "image_url": "https://example.com/images/mac_32.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199001"
+  },
+  {
+    "id": "c57365ec-8ce9-4855-9da2-a51f7854a8b2",
+    "title": "Apple Watch 33",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1129.00",
+    "image_url": "https://example.com/images/watch_33.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199006"
+  },
+  {
+    "id": "1ce3d376-1514-4522-9bf8-00144d49c3c0",
+    "title": "Apple AirPods 34",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1139.00",
+    "image_url": "https://example.com/images/airpods_34.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199010"
+  },
+  {
+    "id": "3e774c37-e33b-446f-8477-848581ad7076",
+    "title": "Apple iPhone 35",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1149.00",
+    "image_url": "https://example.com/images/iphone_35.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199014"
+  },
+  {
+    "id": "0cf21ded-f324-4efe-9b1b-49efc71c3d18",
+    "title": "Apple iPad 36",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1159.00",
+    "image_url": "https://example.com/images/ipad_36.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199019"
+  },
+  {
+    "id": "7151f888-28bc-4f7b-9436-f822bfeddeb3",
+    "title": "Apple Mac 37",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1169.00",
+    "image_url": "https://example.com/images/mac_37.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199023"
+  },
+  {
+    "id": "33eb066a-8429-4d8e-9fce-f211b2f830ef",
+    "title": "Apple Watch 38",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1179.00",
+    "image_url": "https://example.com/images/watch_38.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199028"
+  },
+  {
+    "id": "1d7a7e10-591f-460e-9bf3-58a85f8e4d16",
+    "title": "Apple AirPods 39",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1189.00",
+    "image_url": "https://example.com/images/airpods_39.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199032"
+  },
+  {
+    "id": "3af869ec-243c-4f8c-85f3-de0690edd497",
+    "title": "Apple iPhone 40",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1199.00",
+    "image_url": "https://example.com/images/iphone_40.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199036"
+  },
+  {
+    "id": "fec00ab7-7e02-477d-950c-b84c02685d31",
+    "title": "Apple iPad 41",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1209.00",
+    "image_url": "https://example.com/images/ipad_41.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199040"
+  },
+  {
+    "id": "7860cd90-5609-4900-ab41-bd69fb61b375",
+    "title": "Apple Mac 42",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1219.00",
+    "image_url": "https://example.com/images/mac_42.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199045"
+  },
+  {
+    "id": "e7deba38-4710-446b-9f3b-ca4271b2ba34",
+    "title": "Apple Watch 43",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1229.00",
+    "image_url": "https://example.com/images/watch_43.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199049"
+  },
+  {
+    "id": "b18f051c-2bee-4261-991a-c1947b4043c4",
+    "title": "Apple AirPods 44",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1239.00",
+    "image_url": "https://example.com/images/airpods_44.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199053"
+  },
+  {
+    "id": "2e9fcbc8-0ecc-4956-8ce7-eb3de2c7a9c2",
+    "title": "Apple iPhone 45",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1249.00",
+    "image_url": "https://example.com/images/iphone_45.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199057"
+  },
+  {
+    "id": "626332b1-5540-4f9f-b002-d0334788034d",
+    "title": "Apple iPad 46",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1259.00",
+    "image_url": "https://example.com/images/ipad_46.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199061"
+  },
+  {
+    "id": "55ce83df-a0db-41b0-8902-31f57df0789c",
+    "title": "Apple Mac 47",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1269.00",
+    "image_url": "https://example.com/images/mac_47.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199066"
+  },
+  {
+    "id": "d4720d5a-25e8-474e-80ac-f51a075692c5",
+    "title": "Apple Watch 48",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1279.00",
+    "image_url": "https://example.com/images/watch_48.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199070"
+  },
+  {
+    "id": "8371d38b-99ba-4dcf-bffd-9da825f665d5",
+    "title": "Apple AirPods 49",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1289.00",
+    "image_url": "https://example.com/images/airpods_49.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199074"
+  },
+  {
+    "id": "aee40547-1e44-4d8f-814d-2e69942d63d7",
+    "title": "Apple iPhone 50",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1299.00",
+    "image_url": "https://example.com/images/iphone_50.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199078"
+  },
+  {
+    "id": "01c665d6-82d8-470b-ac60-8f3aed37ad05",
+    "title": "Apple iPad 51",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1309.00",
+    "image_url": "https://example.com/images/ipad_51.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199083"
+  },
+  {
+    "id": "f1fb2438-edfe-40a1-8f10-ac483501eec1",
+    "title": "Apple Mac 52",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1319.00",
+    "image_url": "https://example.com/images/mac_52.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199087"
+  },
+  {
+    "id": "9e1a85e3-9185-4c64-8fab-e9c03e2f56d3",
+    "title": "Apple Watch 53",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1329.00",
+    "image_url": "https://example.com/images/watch_53.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199091"
+  },
+  {
+    "id": "738956e1-39a9-4a83-ab70-39473a76228a",
+    "title": "Apple AirPods 54",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1339.00",
+    "image_url": "https://example.com/images/airpods_54.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199095"
+  },
+  {
+    "id": "3cc1c5fe-8f78-4a81-ba86-b1c2af9432bb",
+    "title": "Apple iPhone 55",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1349.00",
+    "image_url": "https://example.com/images/iphone_55.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199100"
+  },
+  {
+    "id": "0845470c-0957-418b-9d8d-6126460b77b4",
+    "title": "Apple iPad 56",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1359.00",
+    "image_url": "https://example.com/images/ipad_56.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199104"
+  },
+  {
+    "id": "528f4545-eb7d-4005-890e-278cad94cbb4",
+    "title": "Apple Mac 57",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1369.00",
+    "image_url": "https://example.com/images/mac_57.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199108"
+  },
+  {
+    "id": "7ecfc58b-af61-4c75-b2e6-c8c8169f989e",
+    "title": "Apple Watch 58",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1379.00",
+    "image_url": "https://example.com/images/watch_58.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199113"
+  },
+  {
+    "id": "28e14b2e-3fff-4e28-b53b-4003a68fe52e",
+    "title": "Apple AirPods 59",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1389.00",
+    "image_url": "https://example.com/images/airpods_59.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199117"
+  },
+  {
+    "id": "a56d090e-1487-4183-9354-0644d0200648",
+    "title": "Apple iPhone 60",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1399.00",
+    "image_url": "https://example.com/images/iphone_60.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199121"
+  },
+  {
+    "id": "860bf53b-b1e9-422b-ba1f-84b467bf0df0",
+    "title": "Apple iPad 61",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1409.00",
+    "image_url": "https://example.com/images/ipad_61.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199126"
+  },
+  {
+    "id": "1d9a6399-aa11-4b10-b4cc-f140d4265902",
+    "title": "Apple Mac 62",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1419.00",
+    "image_url": "https://example.com/images/mac_62.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199130"
+  },
+  {
+    "id": "40b2e70c-de0a-46c2-9829-f2bcaa10a209",
+    "title": "Apple Watch 63",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1429.00",
+    "image_url": "https://example.com/images/watch_63.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199134"
+  },
+  {
+    "id": "dc8fddb0-6b8d-4a5d-afea-f3ad12079455",
+    "title": "Apple AirPods 64",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1439.00",
+    "image_url": "https://example.com/images/airpods_64.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199138"
+  },
+  {
+    "id": "1452a5b6-3ccb-445b-ae81-7e600ba30f9b",
+    "title": "Apple iPhone 65",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1449.00",
+    "image_url": "https://example.com/images/iphone_65.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199143"
+  },
+  {
+    "id": "29a8cd87-44c8-4619-9972-03d6a4a23a64",
+    "title": "Apple iPad 66",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1459.00",
+    "image_url": "https://example.com/images/ipad_66.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199147"
+  },
+  {
+    "id": "79ea1280-0669-46e2-bb69-41b790eccc30",
+    "title": "Apple Mac 67",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1469.00",
+    "image_url": "https://example.com/images/mac_67.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199151"
+  },
+  {
+    "id": "51db811b-b06d-42f6-81b1-81206139597e",
+    "title": "Apple Watch 68",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1479.00",
+    "image_url": "https://example.com/images/watch_68.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199155"
+  },
+  {
+    "id": "9c45b8dd-28d4-4f29-9712-636dc0e9855e",
+    "title": "Apple AirPods 69",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1489.00",
+    "image_url": "https://example.com/images/airpods_69.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199160"
+  },
+  {
+    "id": "d0bffa39-c77e-4bce-9800-e3c70376f11e",
+    "title": "Apple iPhone 70",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1499.00",
+    "image_url": "https://example.com/images/iphone_70.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199164"
+  },
+  {
+    "id": "1279bdf6-e460-4fc5-92e4-f3b00fe8422a",
+    "title": "Apple iPad 71",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1509.00",
+    "image_url": "https://example.com/images/ipad_71.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199168"
+  },
+  {
+    "id": "e31f0b3b-558e-413d-92a0-cd5526165ddf",
+    "title": "Apple Mac 72",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1519.00",
+    "image_url": "https://example.com/images/mac_72.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199172"
+  },
+  {
+    "id": "56d08fbe-90c0-460b-849d-0d4d38997b71",
+    "title": "Apple Watch 73",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1529.00",
+    "image_url": "https://example.com/images/watch_73.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199177"
+  },
+  {
+    "id": "6813cf2c-bb7e-4ec3-9ef6-162ee438a377",
+    "title": "Apple AirPods 74",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1539.00",
+    "image_url": "https://example.com/images/airpods_74.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199181"
+  },
+  {
+    "id": "d33eefef-04d6-45f6-9ed3-49624856ea30",
+    "title": "Apple iPhone 75",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1549.00",
+    "image_url": "https://example.com/images/iphone_75.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199193"
+  },
+  {
+    "id": "1e361119-f0be-43c7-9375-95e353493319",
+    "title": "Apple iPad 76",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1559.00",
+    "image_url": "https://example.com/images/ipad_76.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199198"
+  },
+  {
+    "id": "8cbf13d6-6aae-4a50-9fba-459f7cf70257",
+    "title": "Apple Mac 77",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1569.00",
+    "image_url": "https://example.com/images/mac_77.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199202"
+  },
+  {
+    "id": "5c94a3c1-469e-45ab-ba28-70856b47b345",
+    "title": "Apple Watch 78",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1579.00",
+    "image_url": "https://example.com/images/watch_78.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199208"
+  },
+  {
+    "id": "5331aca7-fb9f-4a12-8aef-ce1b262c7490",
+    "title": "Apple AirPods 79",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1589.00",
+    "image_url": "https://example.com/images/airpods_79.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199213"
+  },
+  {
+    "id": "d428f9c1-8299-4e15-94e0-ae626a983a8f",
+    "title": "Apple iPhone 80",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1599.00",
+    "image_url": "https://example.com/images/iphone_80.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199217"
+  },
+  {
+    "id": "33c35e1f-1ef3-4334-bf54-61e718e4d98c",
+    "title": "Apple iPad 81",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1609.00",
+    "image_url": "https://example.com/images/ipad_81.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199221"
+  },
+  {
+    "id": "799327f7-657c-446d-8efc-15977784856f",
+    "title": "Apple Mac 82",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1619.00",
+    "image_url": "https://example.com/images/mac_82.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199226"
+  },
+  {
+    "id": "135baca8-0e18-44cb-8c10-f6937f87d0d5",
+    "title": "Apple Watch 83",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1629.00",
+    "image_url": "https://example.com/images/watch_83.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199230"
+  },
+  {
+    "id": "65ae0d65-f150-4e3d-9430-aac4f8eb624b",
+    "title": "Apple AirPods 84",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1639.00",
+    "image_url": "https://example.com/images/airpods_84.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199235"
+  },
+  {
+    "id": "83d6d0ea-edab-4836-b766-52c89d3f01a3",
+    "title": "Apple iPhone 85",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1649.00",
+    "image_url": "https://example.com/images/iphone_85.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199239"
+  },
+  {
+    "id": "a6853493-7b69-436a-b4af-ac721acef208",
+    "title": "Apple iPad 86",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1659.00",
+    "image_url": "https://example.com/images/ipad_86.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199243"
+  },
+  {
+    "id": "e9bb1bab-6276-42d9-a785-b5794d4a7477",
+    "title": "Apple Mac 87",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1669.00",
+    "image_url": "https://example.com/images/mac_87.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199247"
+  },
+  {
+    "id": "bb36c909-717a-4dc7-859f-35162b44fd2f",
+    "title": "Apple Watch 88",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1679.00",
+    "image_url": "https://example.com/images/watch_88.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199252"
+  },
+  {
+    "id": "f6f606ea-6e75-4879-b476-88a606d64311",
+    "title": "Apple AirPods 89",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1689.00",
+    "image_url": "https://example.com/images/airpods_89.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199256"
+  },
+  {
+    "id": "8ba13ab3-e3ce-4d51-8e29-ee1e91925775",
+    "title": "Apple iPhone 90",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1699.00",
+    "image_url": "https://example.com/images/iphone_90.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199308"
+  },
+  {
+    "id": "1d69be67-4a3d-435f-8bab-f84a687c415b",
+    "title": "Apple iPad 91",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1709.00",
+    "image_url": "https://example.com/images/ipad_91.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199314"
+  },
+  {
+    "id": "6b887cac-93c4-4ddb-807f-98b77b6c0c13",
+    "title": "Apple Mac 92",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1719.00",
+    "image_url": "https://example.com/images/mac_92.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199318"
+  },
+  {
+    "id": "4f6549af-fc23-428b-b1d7-f9f7b07f01b1",
+    "title": "Apple Watch 93",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1729.00",
+    "image_url": "https://example.com/images/watch_93.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199323"
+  },
+  {
+    "id": "92e7d985-8f35-4df1-9f03-c3920711e451",
+    "title": "Apple AirPods 94",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1739.00",
+    "image_url": "https://example.com/images/airpods_94.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199327"
+  },
+  {
+    "id": "e1db2835-ad0b-4a92-92c7-932831fc1584",
+    "title": "Apple iPhone 95",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1749.00",
+    "image_url": "https://example.com/images/iphone_95.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199331"
+  },
+  {
+    "id": "4a97a056-25ad-45a9-8532-4308a7b3e1e0",
+    "title": "Apple iPad 96",
+    "description": "Latest generation iPad with advanced features",
+    "price": "$1759.00",
+    "image_url": "https://example.com/images/ipad_96.jpg",
+    "image_path": "",
+    "category": "iPad",
+    "scraped_at": "2025-03-28T00:31:37.199336"
+  },
+  {
+    "id": "09187cb7-fa7e-4084-b0a0-504e1acb6944",
+    "title": "Apple Mac 97",
+    "description": "Latest generation Mac with advanced features",
+    "price": "$1769.00",
+    "image_url": "https://example.com/images/mac_97.jpg",
+    "image_path": "",
+    "category": "Mac",
+    "scraped_at": "2025-03-28T00:31:37.199340"
+  },
+  {
+    "id": "08d61672-0afc-4e9d-89c6-d3f56aead642",
+    "title": "Apple Watch 98",
+    "description": "Latest generation Watch with advanced features",
+    "price": "$1779.00",
+    "image_url": "https://example.com/images/watch_98.jpg",
+    "image_path": "",
+    "category": "Watch",
+    "scraped_at": "2025-03-28T00:31:37.199344"
+  },
+  {
+    "id": "dec77b40-13c9-40f2-991f-5e584fa36d12",
+    "title": "Apple AirPods 99",
+    "description": "Latest generation AirPods with advanced features",
+    "price": "$1789.00",
+    "image_url": "https://example.com/images/airpods_99.jpg",
+    "image_path": "",
+    "category": "AirPods",
+    "scraped_at": "2025-03-28T00:31:37.199348"
+  },
+  {
+    "id": "753181ae-6909-4da7-baf8-743d4b57adad",
+    "title": "Apple iPhone 100",
+    "description": "Latest generation iPhone with advanced features",
+    "price": "$1799.00",
+    "image_url": "https://example.com/images/iphone_100.jpg",
+    "image_path": "",
+    "category": "iPhone",
+    "scraped_at": "2025-03-28T00:31:37.199353"
+  }
+]
