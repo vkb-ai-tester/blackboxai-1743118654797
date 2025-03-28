@@ -44,12 +44,22 @@ async def add_document(document: Document):
         # Generate embedding
         embedding = embedder.encode(document.text).tolist()
         
+        # Prepare document for insertion
+        doc = {
+            "text": document.text,
+            "embedding": embedding
+        }
+        
+        # Add metadata if provided
+        if document.metadata:
+            doc["metadata"] = document.metadata
+        
         # Insert into vector DB
-        vector_db.collection.insert([{"text": document.text, "embedding": embedding}])
+        vector_db.collection.insert([doc])
         return {"status": "success"}
     except Exception as e:
         logger.error(f"Document insertion error: {str(e)}")
-        raise HTTPException(status_code=500, detail="Document insertion failed")
+        raise HTTPException(status_code=500, detail=f"Document insertion failed: {str(e)}")
 
 @app.get("/health")
 async def health_check():
